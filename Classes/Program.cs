@@ -81,7 +81,7 @@ namespace Classes
     {
         get
         {
-            return ErkekMi ? "Bay" : "Bayan";
+            return ErkekMi ? "Bay" : "Bayaan";
         }
     }
     // encapsulation
